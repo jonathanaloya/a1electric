@@ -192,24 +192,24 @@ function ensureGlobalLogoStrip() {
     const w = document.createElement("div");
     w.className = "wrap";
     const brands = [
-      { href: "pages/brands/abb.html", img: "images/abb.jpeg", alt: "ABB" },
+      { href: "pages/brands/abb", img: "images/abb.jpeg", alt: "ABB" },
       {
-        href: "pages/brands/havells.html",
+        href: "pages/brands/havells",
         img: "images/ace.jpeg",
         alt: "Havells",
       },
       {
-        href: "pages/brands/philips-lighting.html",
+        href: "pages/brands/philips-lighting",
         img: "images/phillips_lights.jpeg",
         alt: "Philips",
       },
       {
-        href: "pages/brands/ledvance.html",
+        href: "pages/brands/ledvance",
         img: "images/ledvance.jpeg",
         alt: "LEDVANCE",
       },
       {
-        href: "pages/brands/marshall-tufflex.html",
+        href: "pages/brands/marshall-tufflex",
         img: "images/marshell_tufflex.jpeg",
         alt: "Marshall",
       },
